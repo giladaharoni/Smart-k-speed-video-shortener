@@ -1,0 +1,6 @@
+scikit-image
+numpy
+opencv-python
+transformers
+Pillow
+torch

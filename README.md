@@ -15,5 +15,6 @@ when:
 - **Skeleton preprocessing and Hausdorff distance**: Skeletonized frame is represented by objects outline, and Hausdorf distance evaluates the difference in graphs on the metric space. woould capture transformations and scaling of objects, less color changes.
 - **BRIET Model output distance**: The BRIET outputs object detection score, represented by logits, and can identifiy 22k types of objects. would capture apearance or disapearance of new objects.
 ## Example:
-
+For examples and hebrew explanation, read my post in Linkedin:
+https://www.linkedin.com/posts/gilad-aharoni_leetcode-softwareengineering-computerabrvision-activity-7203644844282429440-MBcR?utm_source=share&utm_medium=member_desktop
 
